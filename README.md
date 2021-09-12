@@ -1,2 +1,4 @@
-# Machine_Learning
-Repo for Machine Learning Projects
+
+# Machine Learning Projects
+
+Collection of implementation of Machine Learning Algorithms on various datasets
